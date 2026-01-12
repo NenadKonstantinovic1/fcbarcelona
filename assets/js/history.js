@@ -7,7 +7,7 @@ let competitionNames = [
   "UEFA Super Cup"
 ];
 
-let nbrOfTroph = [32, 28, 15, 5, 5, 5];
+let nbrOfTroph = [32, 28, 16, 5, 5, 5];
 
 let tbody = document.getElementById("tbody_id");
 
